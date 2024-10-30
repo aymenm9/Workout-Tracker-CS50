@@ -1,6 +1,9 @@
 # cs50
 cs50 finel project
 
+![OT130Y1](https://github.com/user-attachments/assets/bd5fc357-5d2d-4587-ad17-66c3503f528b)
+![7581961](https://github.com/user-attachments/assets/69d20ce0-a71c-40ef-88d7-c3700c60f44b)
+
 # web app WORKOUT TRACKER
 #### Video Demo:  <https://youtu.be/s82tZelXQPw>
 #### Description:
